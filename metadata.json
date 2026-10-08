@@ -1,0 +1,6 @@
+{
+  "name": "AegisUAV-7LSP: Military 7-Layer UAV Security & C2 System",
+  "description": "Military-grade 7-layer mutual cryptographic security protocol, real-time UAV Command & Control, autonomous threat detection, and multi-sensor data fusion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
